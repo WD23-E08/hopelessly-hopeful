@@ -1,0 +1,28 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Open Sans', sans-serif;
+    /* width: 100vw; */
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, rgb(206, 135, 135), rgb(96, 224, 96)); 
+    background-size: cover;
+    background-position:90% 90%;
+    background-repeat: no-repeat;
+    text-align: center; 
+}
+
+
+
